@@ -44,36 +44,32 @@
             <div class="card card-primary">
               <!-- /.card-header -->
               <div class="card-body">
-              <div class="x_content">
-                    <div class="col-md-12">
-                      <div class="profile_title">
-                      </div>
-                      <div class="x_content">
-                    </div>
-                        <center>
-                          <img src="img/tria.jpg" class="img-circle elevation-2" alt="User Image" width="150">
-                          <p>Aplikasi ini dibuat oleh : </p>
-                        </center>
-                    <table class="table table-striped">
-                      <tbody>
-                        <tr>
-                          <td>Nama</td>
-                          <td>Siti Amalia Fitriani</td>
-                        </tr>
-                        <tr>
-                          <td>NIM</td>
-                          <td>1931710005</td>
-                        </tr>
-                        <tr>
-                          <td>Tanggal</td>
-                          <td>13 September 2022</td>
-                        </tr>
-                      </tbody>
-                    </table>
+                <div class="card-body">
+
+                <img class="img-fluid px-3" style="width: 15rem; float:left;" src="img/tria.jpg" alt="...">
+                <p>Aplikasi ini dibuat oleh : </p>
+              
+			          <table class="table table-striper" style="width: 15rem; float:left;">
+                  <tbody>
+                    <tr>
+                      <td>Nama</td>
+                      <td>Siti Amalia Fitriani</td>
+                    </tr>
+                    <tr>
+                      <td>NIM</td>
+                      <td>1931710005</td>
+                    </tr>
+                    <tr>
+                      <td>Tanggal</td>
+                      <td>13 September 2022</td>
+                    </tr>
+                  </tbody>
+                </table>
                   </div>
                       <a href="dashboard.php" class="btn btn-success float-right">Kembali</a>
                   </div>
               <!-- /.card-body -->
+              </div>
             </div>
             <!-- /.nav-tabs-custom -->
           </div>

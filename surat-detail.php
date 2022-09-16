@@ -52,7 +52,7 @@
                       </div>
 
                       <div>
-                      <iframe src="arsip_surat/<?php echo $r_tampil_surat['file_surat'] ?>" height="600" width="200%"></iframe>
+                      <embed src="arsip_surat/<?php echo $r_tampil_surat['file_surat'] ?>" height="600" width="200%"></embed>
                       </div>
 
                       <ul class="list-inline">
@@ -67,9 +67,9 @@
 													</a>
                       </li>
                       <li class="list-inline-item mb-0">
-                        <a href="#">
-                          <button type="button" class="btn btn-primary">Edit/Ubah File</button>
-                        </a>
+                        <a href="surat-edit.php?id=<?php echo ($r_tampil_surat['id']) ?>" class="btn btn-primary">
+														<span class="text">Edit/Ubah File</span>
+													</a>
                       </li>
                     </ul>
 
