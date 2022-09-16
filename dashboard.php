@@ -31,7 +31,5 @@
     </section>
     <!-- /.content -->
   </div>
- <!-- fotter -->
- <?php include 'template/footer.php';?>
 </body>
 </html>
